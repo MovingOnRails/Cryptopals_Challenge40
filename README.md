@@ -17,9 +17,8 @@ The CRT says you can take any number and represent it as the combination of a se
 
 where:
 
- `c_0, c_1, c_2 are the three respective residues mod
+`c_0, c_1, c_2 are the three respective residues mod
  n_0, n_1, n_2
-
  m_s_n (for n in 0, 1, 2) are the product of the moduli
  EXCEPT n_n --- ie, m_s_1 is n_0 * n_2`
  
